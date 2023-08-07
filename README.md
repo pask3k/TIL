@@ -1,0 +1,2 @@
+# TIL
+PythonやAIについて学んだことのTILリポジトリ
